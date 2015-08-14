@@ -1,0 +1,42 @@
+".container": {
+	backgroundColor:"white",
+	layout: "vertical"
+}
+
+"#control": {
+	backgroundColor:"white",
+	layout: "vertical",
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+}
+
+"#controlimagen": {
+	layout: "composite",
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+}
+
+"#idiotaButton": {
+	layout: 'vertical',
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE	
+}
+
+"#callateButton": {
+	layout: 'vertical',
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+}
+
+
+"#veteAlDiabloButton": {
+	layout: 'vertical',
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+}
+
+"#taguenoButton": {
+	layout: 'vertical',
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE
+}

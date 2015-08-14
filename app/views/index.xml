@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+		<View id="control">
+			<ImageView id="controlimagen" image="/images/boton.jpg" />
+			<Button id="idiotaButton">idiota</Button>
+			<Button id="callateButton">callate</Button>
+			<Button id="veteAlDiabloButton">vete al diablo</Button>
+			<Button id="taguenoButton">tagueno</Button>
+		</View>
+	</Window>
+</Alloy>
